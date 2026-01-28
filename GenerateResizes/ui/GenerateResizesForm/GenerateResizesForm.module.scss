@@ -1,0 +1,22 @@
+.accardionWrapper {
+  border: 1px #e3e9e5 solid;
+}
+
+.title {
+  font-weight: 500;
+  font-size: 16px;
+  margin-bottom: 16px;
+}
+
+.switchField {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+.footer {
+  display: flex;
+  gap: 20px;
+  justify-content: flex-end;
+  margin-top: 28px;
+}
